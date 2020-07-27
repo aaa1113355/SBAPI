@@ -1,0 +1,24 @@
+.SigninDiv {
+	display: flex;
+	flex-flow: wrap column;
+	align-items: center;
+	justify-content: center;
+	margin: auto;
+	margin-top: 8%;
+	padding: 3em;
+	border: 1px solid black;
+	width: 40%;
+}
+
+.SigninDiv > div {
+	margin: 1em;
+}
+
+.SigninDiv > div > input {
+	padding: 0.5em;
+}
+
+.SigninDiv > div > p {
+	cursor: pointer;
+	text-decoration: underline;
+}

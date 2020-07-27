@@ -1,0 +1,10 @@
+.navDiv {
+	display: flex;
+}
+
+.navDiv > h2 {
+	text-decoration: underline;
+	cursor: pointer;
+	margin-right: 0.5em;
+	margin-left: auto;
+}

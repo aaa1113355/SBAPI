@@ -1,0 +1,7 @@
+.logoDiv > img {
+	height: 150px;
+	width: auto;
+	border-radius: 50%;
+	margin-left: 1em;
+	float:left;
+}

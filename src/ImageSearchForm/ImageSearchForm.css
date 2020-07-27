@@ -1,0 +1,21 @@
+.imageSearchFormDiv {
+	height: 150px;
+	display: flex;
+	align-items: center;
+}
+
+.imageSearchFormDiv > form {
+	width: 100%;
+	margin-left: 2em;
+}
+
+.imageSearchFormDiv > form > input {
+	width: 60%;
+	padding: 1em;
+}
+
+.imageSearchFormDiv > form > button {
+	width: 30%;
+	padding: 1em;
+	cursor: pointer;
+}
